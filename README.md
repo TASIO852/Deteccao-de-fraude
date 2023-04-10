@@ -6,6 +6,4 @@ Com base nesse aprendizado, sua transação de crédito atual será prevista com
 
 Tais previsões serão feitas em milhões de transações. Portanto, são usadas estruturas distribuídas que podem ser dimensionadas à medida que as transações aumentam.
 
-
 Detecção de fraude de cartão de crédito em tempo real usando Spark2.2, Kafka, Cassandra. Automação de jobs do Spark usando automação de fluxo de ar.
-Link do cupom de desconto: https://www.udemy.com/real-time-creditcard-fraud-detection-using-spark/?couponCode=DIS640
